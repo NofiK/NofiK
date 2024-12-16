@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my profile
+# Hi there 👋 Welcome to my profile
 
 # 💫 About Me:
 🔭 I’m currently looking new opportunities<br>💬 Ask me about anything about Javascript, Git, React and Typescript<br>⚡ Fun fact: Big Fan of the ⚡ emoji
