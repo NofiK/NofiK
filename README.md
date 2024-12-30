@@ -1,7 +1,8 @@
 # Hi there 👋 Welcome to my profile
 
 ## 💫 About Me:
-🔭 I’m currently looking new opportunities<br>💬 Ask me about anything about Javascript, Git, React and Typescript<br>⚡ Fun fact: Big Fan of the ⚡ emoji
+🔭 Hi,  I'm Senior React Engineer with 4 years of commerical experience in Software development. Speak in Russia from the childhood, and have great commercial experience with React, CSS, and Figma.
+<br>⚡ Fun fact: Big Fan of the ⚡ emoji
 
 
 # 💻 Tech Stack:
